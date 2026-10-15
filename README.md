@@ -22,6 +22,10 @@ Der Dieb stiehlt die Krone. Nach seiner Gefangennahme wird Sticky Lina enttarnt.
 
 Die Hintergründe werden jetzt als vorbereitete Bilder gezeichnet. Das Spiel rendert intern mit höchstens 1280 × 720 und läuft mit maximal 60 Bildern pro Sekunde, in Menüs mit 30. Vorhandene Spielstände derselben Web-Adresse werden weiterhin unterstützt. Durch den Wechsel des GitHub-Kontos hat diese Veröffentlichung eine neue Web-Adresse. Spielstände vom bisherigen Link werden nicht automatisch übertragen; sie bleiben beim bisherigen Link gespeichert.
 
+## Codes
+
+Öffne **Codes eingeben**, gib `/giveadmin_lv100` ein und bestätige mit **Code einlösen**. Der Befehl schaltet alle 100 Level dauerhaft frei und startet sofort Level 100. Coins, Zusatzleben und vorhandene Waffen bleiben erhalten. Der Abschlussdialog wird dadurch nicht automatisch gewonnen.
+
 ## Spielstände
 
 Fortschritt, Coins, Waffen und Zusatzleben werden in diesem Browser auf diesem Gerät gespeichert. Benutze keinen privaten Browsermodus. Das Löschen der Websitedaten entfernt auch den Spielstand. Spielstände werden nicht zwischen Geräten synchronisiert.
