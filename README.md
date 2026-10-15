@@ -1,8 +1,8 @@
 # Stickie durch die Schattenwelt
 
-[**Spiel öffnen**](https://tyrongeschonke-pixel.github.io/stickie-schattenwelt/)
+[**Spiel öffnen**](https://u4600395921-sys.github.io/stickie-schattenwelt/)
 
-Kostenloses 2D-Abenteuer im Querformat: 50 Level, fünf große Bosse, Nahkampf und Fernkampf, Lichtdorf, Waffenladen, zusätzliche Lebenspunkte und deutsche Boss-Dialoge.
+Kostenloses 2D-Abenteuer im Querformat: 100 Level, neue Bosskämpfe und eine Reise durch die Zeit, Nahkampf und Fernkampf, Lichtdorf, Waffenladen, zusätzliche Lebenspunkte und deutsche Boss-Dialoge.
 
 ## Auf dem iPhone
 
@@ -11,6 +11,16 @@ Kostenloses 2D-Abenteuer im Querformat: 50 Level, fünf große Bosse, Nahkampf u
 3. Über **Teilen → Zum Home-Bildschirm** kannst du ein App-Symbol hinzufügen.
 
 Auf Android funktioniert derselbe Link in Chrome; dort kannst du das Spiel ebenfalls zum Startbildschirm hinzufügen. Es gibt keine Werbung und keine echten Geldkäufe.
+
+## Schatten-Update
+
+Nach dem Schattenkönig geht die Reise auf der Lichtwiese weiter. Boss 60 ist besiegbar. Nur bei Boss 70 gehört die Niederlage zur Geschichte: Danach erhältst du Sense und Krone, und im Lichtdorf erscheint das Haus der Helden. Dort wechselst du zu Sticky Lina und ihren eigenen Waffen. Mit nach oben gehaltenem Waffenstick gleitet Lina; auf dem Computer geht das auch mit G.
+
+20 erfolgreiche Treffer laden die Schatten-Sense auf. Ihre Spezialattacke verwandelt dich für zehn Sekunden: fünffacher Schaden und vollständiger Schutz vor Schaden. Während der Verwandlung sammelt sich keine neue Ladung.
+
+Der Dieb stiehlt die Krone. Nach seiner Gefangennahme wird Sticky Lina enttarnt. Dein jüngeres Ich fordert dich heraus; dein Sieg verändert die Vergangenheit und zerbricht die Welt. In Level 100 erzählst du dem obersten Strichmännchen deine Geschichte, bis es der Reparatur zustimmt.
+
+Die Hintergründe werden jetzt als vorbereitete Bilder gezeichnet. Das Spiel rendert intern mit höchstens 1280 × 720 und läuft mit maximal 60 Bildern pro Sekunde, in Menüs mit 30. Vorhandene Spielstände derselben Web-Adresse werden weiterhin unterstützt. Durch den Wechsel des GitHub-Kontos hat diese Veröffentlichung eine neue Web-Adresse. Spielstände vom bisherigen Link werden nicht automatisch übertragen; sie bleiben beim bisherigen Link gespeichert.
 
 ## Spielstände
 
