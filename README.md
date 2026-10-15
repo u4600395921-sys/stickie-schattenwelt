@@ -16,11 +16,15 @@ Auf Android funktioniert derselbe Link in Chrome; dort kannst du das Spiel ebenf
 
 Nach dem Schattenkönig geht die Reise auf der Lichtwiese weiter. Boss 60 ist besiegbar. Nur bei Boss 70 gehört die Niederlage zur Geschichte: Danach erhältst du Sense und Krone, und im Lichtdorf erscheint das Haus der Helden. Dort wechselst du zu Sticky Lina und ihren eigenen Waffen. Mit nach oben gehaltenem Waffenstick gleitet Lina; auf dem Computer geht das auch mit G.
 
-20 erfolgreiche Treffer laden die Schatten-Sense auf. Ihre Spezialattacke verwandelt dich für zehn Sekunden: fünffacher Schaden und vollständiger Schutz vor Schaden. Während der Verwandlung sammelt sich keine neue Ladung.
+Die Schatten-Sense macht 5 Grundschaden. 20 erfolgreiche Treffer laden sie auf. Ihre Spezialattacke verwandelt dich für zehn Sekunden: fünffacher Schaden (25 mit der Sense) und vollständiger Schutz vor Schaden. In dieser Form reicht es, Gegner beim Laufen zu berühren, um ihnen 25 Schaden zuzufügen. Pro Gegner gibt es eine halbe Sekunde Trefferpause. Während der Verwandlung sammelt sich keine neue Ladung.
 
 Der Dieb stiehlt die Krone. Nach seiner Gefangennahme wird Sticky Lina enttarnt. Dein jüngeres Ich fordert dich heraus; dein Sieg verändert die Vergangenheit und zerbricht die Welt. In Level 100 erzählst du dem obersten Strichmännchen deine Geschichte, bis es der Reparatur zustimmt.
 
 Die Hintergründe werden jetzt als vorbereitete Bilder gezeichnet. Das Spiel rendert intern mit höchstens 1280 × 720 und läuft mit maximal 60 Bildern pro Sekunde, in Menüs mit 30. Vorhandene Spielstände derselben Web-Adresse werden weiterhin unterstützt. Durch den Wechsel des GitHub-Kontos hat diese Veröffentlichung eine neue Web-Adresse. Spielstände vom bisherigen Link werden nicht automatisch übertragen; sie bleiben beim bisherigen Link gespeichert.
+
+## Levelauswahl
+
+Die beiden festen Knöpfe **1–50** und **51–100** wechseln zur jeweiligen Levelseite. Auch wiederholtes Tippen bleibt auf der gewählten Seite. Zusätzliche simulierte Mausklicks eines Touchscreens werden nicht doppelt verarbeitet. Bereits freigeschaltete Level können erneut gespielt werden, ohne den höchsten Fortschritt zu verlieren.
 
 ## Codes
 
