@@ -16,7 +16,9 @@ Auf Android funktioniert derselbe Link in Chrome; dort kannst du das Spiel ebenf
 
 Nach dem Schattenkönig geht die Reise auf der Lichtwiese weiter. Boss 60 ist besiegbar. Nur bei Boss 70 gehört die Niederlage zur Geschichte: Danach erhältst du Sense und Krone, und im Lichtdorf erscheint das Haus der Helden. Dort wechselst du zu Sticky Lina und ihren eigenen Waffen. Mit nach oben gehaltenem Waffenstick gleitet Lina; auf dem Computer geht das auch mit G.
 
-Die Schatten-Sense macht 5 Grundschaden. 20 erfolgreiche Treffer laden sie auf. Ihre Spezialattacke verwandelt dich für zehn Sekunden: fünffacher Schaden (25 mit der Sense) und vollständiger Schutz vor Schaden. In dieser Form reicht es, Gegner beim Laufen zu berühren, um ihnen 25 Schaden zuzufügen. Pro Gegner gibt es eine halbe Sekunde Trefferpause. Während der Verwandlung sammelt sich keine neue Ladung.
+Die Schatten-Sense macht 5 Grundschaden. 50 erfolgreiche Treffer laden sie auf. Ihre Spezialattacke verwandelt dich für zehn Sekunden: fünffacher Schaden (25 mit der Sense) und vollständiger Schutz vor Schaden. In dieser Form reicht es, Gegner beim Laufen zu berühren, um ihnen 25 Schaden zuzufügen. Pro Gegner gibt es eine halbe Sekunde Trefferpause. Während der Verwandlung sammelt sich keine neue Ladung. Angefangene Ladung bleibt beim Levelwechsel und am Kontrollpunkt erhalten: 48/50 bleiben im nächsten Level 48/50. Sie wird auch im Spielstand gespeichert. Die riesige Sense hat in der Schattenform eine 2,35-fache Reichweite; ihre gebogene Klinge trifft dort, wo sie zu sehen ist.
+
+Die Kapitel-Cutscenes fahren mit weichen Zooms zur sprechenden Figur und kehren zum Schluss in die Übersicht zurück. Untertitel und Überspringen bleiben fest am Bildschirm.
 
 Der Dieb stiehlt die Krone. Nach seiner Gefangennahme wird Sticky Lina enttarnt. Dein jüngeres Ich fordert dich heraus; dein Sieg verändert die Vergangenheit und zerbricht die Welt. In Level 100 erzählst du dem obersten Strichmännchen deine Geschichte, bis es der Reparatur zustimmt.
 
